@@ -2,8 +2,10 @@
 
 Here are a list of tasks to better understand arrays.
 These can be difficult and take a lot of time depending on coding level.
-My advice would be to leave the task after trying for a while (and feeling stuck) and come back after learning more about the concept or after doing other tasks.
+My advice would be to leave the task after trying it for a while (and feeling stuck) and come back after learning more about the concept or after doing other tasks.
+
 Do not worry about the code running quickly/ most efficiently just that the answer is right.
+
 Note: Arrays can also be called lists, in most cases the difference is not important can they can be thought of interchangeably.
 
 ## 1D Array practice
