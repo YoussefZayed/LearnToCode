@@ -30,6 +30,19 @@ Topics to cover:
 - What is an "in place" operation
 - out of bounds checking
 
+### Task 3
+
+<https://leetcode.com/problems/valid-mountain-array/>
+
+Note: this might also take some time so don't be discouraged!
+
+Topics to cover:
+
+- Edge cases (some of the tests might break the code try to think of them before you run)
+- Debuging, how to figure out if something is wrong in the code and what is wrong
+- out of bounds checking
+- Boolean && flags
+
 ## 2D Array practice
 
 ### Task 1
