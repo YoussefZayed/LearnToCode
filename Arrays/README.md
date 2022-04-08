@@ -41,7 +41,7 @@ Topics to cover:
 - Edge cases (some of the tests might break the code try to think of them before you run)
 - Debuging, how to figure out if something is wrong in the code and what is wrong
 - out of bounds checking
-- Boolean && flags
+- Boolean & flags
 
 ## 2D Array practice
 
