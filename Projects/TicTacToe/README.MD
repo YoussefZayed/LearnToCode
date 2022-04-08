@@ -6,7 +6,7 @@ For this project, you will build a TicTacToe game all in javascript NodeJs.
 
 ## Getting Started
 
-To get started, recommended to create a new Replit with Nodejs as the template.
+To get started, it is recommended to create a new Replit with Nodejs as the template.
 Copy the code from main.js into the replit.
 
 The code given is meant to be a guildine as well as providing a couple of helper methods.
