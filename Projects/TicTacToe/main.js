@@ -18,6 +18,7 @@ const runTicTacToe = () => {
 }
 
 // Get player input for their turn
+// Note: would recommend using prompt-sync library to get user input in Node
 const getPlayerTurnInput = () => {
     // Place code here
 }
