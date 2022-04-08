@@ -2,7 +2,7 @@
 
 For this project, you will build a TicTacToe game all in javascript NodeJs.
 
-![TicTacToe program running][Projects\TicTacToe\tictactoe.gif]
+![TicTacToe program running](tictactoe.gif)
 
 ## Getting Started
 
