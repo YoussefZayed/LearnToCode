@@ -32,5 +32,7 @@ Topics to cover:
 
 - If user input is invalid, program must not break or exit (should prompt the user again for input)
 
+- Bonus: create the option to play against Computer (computer moves can just be random legal moves)
+
 - Bonus: Add tests for functions created
 
