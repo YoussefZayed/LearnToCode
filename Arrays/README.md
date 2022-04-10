@@ -57,3 +57,24 @@ Topics to cover:
 - Adding to an array (hint: look at "push" command for JavaScript)
 
 This might be more difficult conceptually as 2d arrays are not as intuitive for some, but you can do it! :) 
+
+### Task 2
+
+<https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true>
+
+Topics to cover:
+
+- Absolute numbers (have a look at Math library for JavaScript)
+- Manipulating 2D arrays/lists
+  
+
+### Task 3
+
+<https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true>
+
+Topics to cover:
+
+- Finding Max in Array.
+- Loops, for loops, and nested for loops
+- Manipulating 2D arrays/lists
+  
